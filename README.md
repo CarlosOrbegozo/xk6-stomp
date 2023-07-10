@@ -20,7 +20,7 @@ Then:
 
 2. Build the binary:
   ```shell
-  xk6 build --with github.com/walterwanderley/xk6-stomp
+  xk6 build --with github.com/CarlosOrbegozo/xk6-stomp
   ```
 
 ## Example test script
