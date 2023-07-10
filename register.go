@@ -1,7 +1,7 @@
 package stomp
 
 import (
-	"github.com/CarlosOrbegozo/stomp"
+	"github.com/CarlosOrbegozo/xk6-stomp/stomp"
 	"go.k6.io/k6/js/modules"
 )
 
